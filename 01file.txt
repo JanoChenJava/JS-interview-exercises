@@ -1,0 +1,1 @@
+Creating a word frequency counter is a fun programming exercise. This exercise involves reading from a text file, counting the occurrences of each word, and then sorting by count in descending order. I will use Node.js for this exercise.
